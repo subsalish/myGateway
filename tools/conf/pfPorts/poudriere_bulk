@@ -69,6 +69,7 @@ net/speedtest-go
 net/trafshow
 net/trafshow3
 net/vnstat
+ports-mgmt/pkg
 security/%%PRODUCT_NAME%%
 security/%%PRODUCT_NAME%%-ce
 security/snort3
